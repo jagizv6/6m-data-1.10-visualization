@@ -4,7 +4,7 @@
 
 ### Preparation
 
-Have a basic understanding of effective data visualization as listed in [studies](./studies.md).
+Have a basic understanding of effective data visualization as listed in [Pre-Class](./pre-class.md).
 
 We will be using the `pds` environment for this lesson.
 
